@@ -486,7 +486,7 @@ top:1000px;
             position: absolute;
             z-index: 2;
             top: 1690px;
-            left:60px;
+            left:35px;
             background-color:black;
         
     }
@@ -497,7 +497,7 @@ top:1000px;
             position: absolute;
             z-index: 2;
             top: 1380px;
-            left: 60px;
+            left: 35px;
             clip-path: circle();
     position: absolute;
 width: 300px;
@@ -529,13 +529,13 @@ top:1000px;
         position: absolute;
         z-index: 2;
         top: 2120px;
-        left: 70px;
+        left: 45px;
         background-color:black;}
         .ditiyo-img{
             position: absolute;
             z-index: 2;
             top: 1800px;
-            left:60px;
+            left:35px;
             clip-path: circle();
             position: absolute;
         width: 300px;
@@ -571,13 +571,13 @@ top:1000px;
             position: absolute;
             z-index: 2;
             top: 2560px;
-            left: 70px;
+            left: 45px;
             background-color:black;}
             .tritiyo-img{
                 position: absolute;
                 z-index: 2;
                 top: 2240px;
-                left: 60px;
+                left: 35px;
                 clip-path: circle();
                 position: absolute;
             width: 300px;
@@ -641,13 +641,13 @@ text-align: center;
                 position: absolute;
                 z-index: 2;
                 top: 2990px;
-                left: 70px;
+                left: 45px;
                 background-color:black;}
                 .coturtho-img{
                     position: absolute;
                     z-index: 2;
                     top: 2670px;
-                    left: 60px;
+                    left: 35px;
                     clip-path: circle();
                     position: absolute;
                 width: 300px;
@@ -697,21 +697,29 @@ z-index: 2;
   .luktak{
     position: absolute;
     z-index: 2;
-    top: 3500px;
+    top: 3540px;
     left: 0px;
     width: 100%;
   }
   .katirbap{
     position: absolute;
     z-index: 2;
-    left: 130px;
+    left: 75px;
     font-size: 20px;
+    top: -30px;
   }
   .caya{position: absolute;
     top:160px ;
     left: 140px;
   
   }
+.kuktak{
+    position: absolute;
+    z-index: 2;
+    top: 3020px;
+    left: 60px;
+    width: 100%;  
+}
  }
  @media only  screen and ( max-width: 576px ){
     .costho-img{
